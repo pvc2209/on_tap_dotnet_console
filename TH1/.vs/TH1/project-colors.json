@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2fe4da44-b875-4ece-acd8-2059832344ab": {
+      "ProjectGuid": "2fe4da44-b875-4ece-acd8-2059832344ab",
+      "DisplayName": "Bai1",
+      "ColorIndex": 0
+    },
+    "fc731dc3-4cb8-40e1-ac12-751c43e376f8": {
+      "ProjectGuid": "fc731dc3-4cb8-40e1-ac12-751c43e376f8",
+      "DisplayName": "Bai2",
+      "ColorIndex": 1
+    },
+    "1ec916e7-cda7-4b90-915d-d12bd599638d": {
+      "ProjectGuid": "1ec916e7-cda7-4b90-915d-d12bd599638d",
+      "DisplayName": "Bai3",
+      "ColorIndex": 2
+    },
+    "cdfe5336-6c48-480b-94ed-8967404bb7f0": {
+      "ProjectGuid": "cdfe5336-6c48-480b-94ed-8967404bb7f0",
+      "DisplayName": "Bai4",
+      "ColorIndex": 3
+    },
+    "7ab056d8-1094-40a0-bc5f-7358ed7cf8fb": {
+      "ProjectGuid": "7ab056d8-1094-40a0-bc5f-7358ed7cf8fb",
+      "DisplayName": "Bai5",
+      "ColorIndex": 4
+    },
+    "0286af7e-d4c2-4c14-8c3a-632fe24d310b": {
+      "ProjectGuid": "0286af7e-d4c2-4c14-8c3a-632fe24d310b",
+      "DisplayName": "Bai6",
+      "ColorIndex": 5
+    },
+    "6aa03f5a-5894-4910-95fa-d007fbabde32": {
+      "ProjectGuid": "6aa03f5a-5894-4910-95fa-d007fbabde32",
+      "DisplayName": "Bai7",
+      "ColorIndex": 6
+    },
+    "e2186fba-1d70-43a7-bd96-f6c6e700f590": {
+      "ProjectGuid": "e2186fba-1d70-43a7-bd96-f6c6e700f590",
+      "DisplayName": "NangCao_Bai1",
+      "ColorIndex": 7
+    },
+    "2c32ef85-a313-4b01-890e-ea44a8eed883": {
+      "ProjectGuid": "2c32ef85-a313-4b01-890e-ea44a8eed883",
+      "DisplayName": "NangCao_Bai2",
+      "ColorIndex": 8
+    },
+    "d02908d2-d403-4dca-9966-be0739e69b30": {
+      "ProjectGuid": "d02908d2-d403-4dca-9966-be0739e69b30",
+      "DisplayName": "NangCao_Bai3",
+      "ColorIndex": 9
+    },
+    "078bd076-06e4-41d6-b8ad-bed0cbdf07e2": {
+      "ProjectGuid": "078bd076-06e4-41d6-b8ad-bed0cbdf07e2",
+      "DisplayName": "NangCao_Bai4",
+      "ColorIndex": 10
+    },
+    "c44ff6fe-c1d9-4e09-b46b-d68cd7f0b95a": {
+      "ProjectGuid": "c44ff6fe-c1d9-4e09-b46b-d68cd7f0b95a",
+      "DisplayName": "NangCao_Bai5",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

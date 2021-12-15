@@ -1,0 +1,8 @@
+D:\ICTU\ky7\Dot Net\OnTap\TH1\NangCao_Bai2\bin\Debug\NangCao_Bai2.exe.config
+D:\ICTU\ky7\Dot Net\OnTap\TH1\NangCao_Bai2\bin\Debug\NangCao_Bai2.exe
+D:\ICTU\ky7\Dot Net\OnTap\TH1\NangCao_Bai2\bin\Debug\NangCao_Bai2.pdb
+D:\ICTU\ky7\Dot Net\OnTap\TH1\NangCao_Bai2\obj\Debug\NangCao_Bai2.csproj.AssemblyReference.cache
+D:\ICTU\ky7\Dot Net\OnTap\TH1\NangCao_Bai2\obj\Debug\NangCao_Bai2.csproj.SuggestedBindingRedirects.cache
+D:\ICTU\ky7\Dot Net\OnTap\TH1\NangCao_Bai2\obj\Debug\NangCao_Bai2.csproj.CoreCompileInputs.cache
+D:\ICTU\ky7\Dot Net\OnTap\TH1\NangCao_Bai2\obj\Debug\NangCao_Bai2.exe
+D:\ICTU\ky7\Dot Net\OnTap\TH1\NangCao_Bai2\obj\Debug\NangCao_Bai2.pdb

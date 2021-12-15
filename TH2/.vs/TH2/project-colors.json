@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b04d69c-7fb2-42d8-8f56-2e8fb67821e7": {
+      "ProjectGuid": "4b04d69c-7fb2-42d8-8f56-2e8fb67821e7",
+      "DisplayName": "Bai1",
+      "ColorIndex": 0
+    },
+    "f6f45df4-2cf1-4832-bcc9-6524c9a393f2": {
+      "ProjectGuid": "f6f45df4-2cf1-4832-bcc9-6524c9a393f2",
+      "DisplayName": "Bai2",
+      "ColorIndex": 1
+    },
+    "9616360d-41c3-4d15-8adc-641ba0e65b92": {
+      "ProjectGuid": "9616360d-41c3-4d15-8adc-641ba0e65b92",
+      "DisplayName": "NangCao_Bai1",
+      "ColorIndex": 2
+    },
+    "0b457547-abcd-41e7-9173-7fceaa7948e8": {
+      "ProjectGuid": "0b457547-abcd-41e7-9173-7fceaa7948e8",
+      "DisplayName": "NangCao_Bai2",
+      "ColorIndex": 3
+    },
+    "c072747a-2bca-4453-b039-89acdcf83199": {
+      "ProjectGuid": "c072747a-2bca-4453-b039-89acdcf83199",
+      "DisplayName": "NangCao_Bai3",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

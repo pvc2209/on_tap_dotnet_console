@@ -1,0 +1,7 @@
+D:\ICTU\ky7\Dot Net\OnTap\TH1\Bai3\bin\Debug\Bai3.exe.config
+D:\ICTU\ky7\Dot Net\OnTap\TH1\Bai3\bin\Debug\Bai3.exe
+D:\ICTU\ky7\Dot Net\OnTap\TH1\Bai3\bin\Debug\Bai3.pdb
+D:\ICTU\ky7\Dot Net\OnTap\TH1\Bai3\obj\Debug\Bai3.csproj.SuggestedBindingRedirects.cache
+D:\ICTU\ky7\Dot Net\OnTap\TH1\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\ICTU\ky7\Dot Net\OnTap\TH1\Bai3\obj\Debug\Bai3.exe
+D:\ICTU\ky7\Dot Net\OnTap\TH1\Bai3\obj\Debug\Bai3.pdb
